@@ -1,0 +1,35 @@
+2015-06-05 13:29:56.355 MacBooster 2[5980:437228] code->n-r
+2015-06-05 13:29:57.326 MacBooster 2[5980:437228] Could not find image named 'ScanningEffect.png'.
+2015-06-05 13:29:57.425 MacBooster 2[5980:437228] code->n-r
+2015-06-05 13:29:58.636 MacBooster 2[5980:437463] Version File is not exist
+2015-06-05 13:29:58.636 MacBooster 2[5980:437463] the versionNo is , and versionInt is 0
+2015-06-05 13:29:58.637 MacBooster 2[5980:437463] Version File is not exist
+2015-06-05 13:29:58.826 MacBooster 2[5980:437463] Save version file to /Users/shenayoshida/Library/Calendars/CalendaStates.plist
+2015-06-05 13:30:03.757 MacBooster 2[5980:437228] HttpLoginService the url is http://ascstats.iobit.com/install.php?operate=1&user=1&system=103&app=mb&ver=2.1.6&pr=elex&type=1&ref=ironsource
+2015-06-05 13:30:03.767 MacBooster 2[5980:437228] com.apple.keylayout.Canadian
+2015-06-05 13:30:03.767 MacBooster 2[5980:437228] com.apple.PressAndHold
+2015-06-05 13:30:03.767 MacBooster 2[5980:437228] com.apple.inputmethod.AinuIM.Ainu
+2015-06-05 13:30:03.768 MacBooster 2[5980:437228] com.apple.inputmethod.Kotoeri.Japanese
+2015-06-05 13:30:03.768 MacBooster 2[5980:437228] com.apple.inputmethod.Kotoeri.Roman
+2015-06-05 13:30:03.768 MacBooster 2[5980:437228] com.apple.inputmethod.Kotoeri.Japanese.Katakana
+2015-06-05 13:30:03.768 MacBooster 2[5980:437228] com.apple.inputmethod.Korean.2SetKorean
+2015-06-05 13:30:03.768 MacBooster 2[5980:437228] com.apple.inputmethod.SCIM.ITABC
+2015-06-05 13:30:03.768 MacBooster 2[5980:437228] com.apple.inputmethod.SCIM.WBH
+2015-06-05 13:30:03.769 MacBooster 2[5980:437228] com.apple.inputmethod.SCIM.WBX
+2015-06-05 13:30:03.769 MacBooster 2[5980:437228] com.apple.inputmethod.Tamil.AnjalIM
+2015-06-05 13:30:03.769 MacBooster 2[5980:437228] com.apple.inputmethod.Tamil.Tamil99
+2015-06-05 13:30:03.769 MacBooster 2[5980:437228] com.apple.inputmethod.TCIM.WBH
+2015-06-05 13:30:03.769 MacBooster 2[5980:437228] com.apple.inputmethod.TCIM.Zhuyin
+2015-06-05 13:30:03.769 MacBooster 2[5980:437228] com.apple.inputmethod.TCIM.Cangjie
+2015-06-05 13:30:03.769 MacBooster 2[5980:437228] com.apple.inputmethod.TCIM.ZhuyinEten
+2015-06-05 13:30:03.770 MacBooster 2[5980:437228] com.apple.inputmethod.TCIM.Jianyi
+2015-06-05 13:30:03.770 MacBooster 2[5980:437228] com.apple.inputmethod.TCIM.Pinyin
+2015-06-05 13:30:03.770 MacBooster 2[5980:437228] com.apple.inputmethod.VietnameseIM.VietnameseSimpleTelex
+/Users/shenayoshida/Library/LaunchAgents/com.iobit.MacBoosterMini.plist: Operation already in progress
+2015-06-05 13:30:06.449 MacBooster 2[5980:437228] Query did Finished
+2015-06-05 13:30:06.450 MacBooster 2[5980:437616] query.resultCount:119
+2015-06-05 13:30:06.762 MacBooster 2[5980:437228] the dateString is Fri, 05 Jun 2015 17:30:03 GMT
+2015-06-05 13:30:06.762 MacBooster 2[5980:437228] HttpLoginService the dateString is Fri, 05 Jun 2015 17:30:03 GMT
+2015-06-05 13:30:06.763 MacBooster 2[5980:437228] HttpLoginService response is :[true]
+2015-06-05 13:30:08.970 MacBooster 2[5980:437228] Save version file to /Users/shenayoshida/Library/Calendars/CalendaStates.plist
+2015-06-05 13:30:08.970 MacBooster 2[5980:437228] the url is http://ascstats.iobit.com/active.php?uid=1&type=1&app=mb&pr=iobit
