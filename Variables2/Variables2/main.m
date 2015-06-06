@@ -53,6 +53,7 @@ int main(int argc, const char * argv[]) {
         NSLog (@"+----------------------------------------------------+");
         
         //oh hello!
+        NSSLog (@"this is a test line");
     
         
 //        NSLog(@"Hello, World!");
