@@ -24,36 +24,45 @@ int main(int argc, const char * argv[]) {
 //        NSLog (@"%d", comp);
 //        NSLog (@"%d", yes);
         
-        NSString *Teacher1 = @"Ms. Lapan";
-        NSString *Teacher2 = @"Mrs. Gideon";
-        NSString *Teacher3 = @"Mr. Davis";
-        NSString *Teacher4 = @"Ms. Palmer";
-        NSString *Teacher5 = @"Ms. Garcia";
-        NSString *Teacher6 = @"Mrs. Barnett";
-        NSString *Teacher7 = @"Ms. Johannessen";
-        NSString *Teacher8 = @"Mr. James";
-        NSString *Course1 = @"English III";
-        NSString *Course2 = @"Precalculus";
-        NSString *Course3 = @"Music Theory";
-        NSString *Course4 = @"Biochemestry";
-        NSString *Course5 = @"Principles of Technology";
-        NSString *Course6 = @"Latin II";
-        NSString *Course7 = @"AP US History";
-        NSString *Course8 = @"Business Computer Information Systems";
+        NSArray *teachers = @[@"Ms. Lapan",@"Mrs. Gideon", @"Mr. Davis", @"Ms. Palmer", @"Ms. Garcia", @"Mrs. Barnett", @"Ms. Johannessen", @"Mr. James"];
+        NSArray *courses = @[@"English III", @"Precalculus", @"Music Theory", @"Biochemestry", @"Principles of Technology", @"Latin II", @"AP US History", @"Business Computer Information Systems"];
         
-        NSLog (@"+----------------------------------------------------+");
-        NSLog (@"|1| %@ |                          %@ |", Course1, Teacher1);
-        NSLog (@"|2| %@ |                        %@ |", Course2, Teacher2);
-        NSLog (@"|3| %@ |                         %@ |", Course3, Teacher3);
-        NSLog (@"|4| %@ |                        %@ |", Course4, Teacher4);
-        NSLog (@"|5| %@ |            %@ |", Course5, Teacher5);
-        NSLog (@"|6| %@ |                          %@ |", Course6, Teacher6);
-        NSLog (@"|7| %@ |                  %@ |", Course7, Teacher7);
-        NSLog (@"|8| %@ |%@ |", Course8, Teacher8);
-        NSLog (@"+----------------------------------------------------+");
+        for (int i = 0; i<[teachers count]; i++) {
+            NSLog(@"%@", courses[i]);
+        }
+
+                              
+//        NSString *Teacher1 = @"Ms. Lapan";
+//        NSString *Teacher2 = @"Mrs. Gideon";
+//        NSString *Teacher3 = @"Mr. Davis";
+//        NSString *Teacher4 = @"Ms. Palmer";
+//        NSString *Teacher5 = @"Ms. Garcia";
+//        NSString *Teacher6 = @"Mrs. Barnett";
+//        NSString *Teacher7 = @"Ms. Johannessen";
+//        NSString *Teacher8 = @"Mr. James";
+//        NSString *Course1 = @"English III";
+//        NSString *Course2 = @"Precalculus";
+//        NSString *Course3 = @"Music Theory";
+//        NSString *Course4 = @"Biochemestry";
+//        NSString *Course5 = @"Principles of Technology";
+//        NSString *Course6 = @"Latin II";
+//        NSString *Course7 = @"AP US History";
+//        NSString *Course8 = @"Business Computer Information Systems";
+        
+//        NSLog (@"+----------------------------------------------------+");
+//        NSLog (@"|1| %@ |                          %@ |", Course1, Teacher1);
+//        NSLog (@"|2| %@ |                        %@ |", Course2, Teacher2);
+//        NSLog (@"|3| %@ |                         %@ |", Course3, Teacher3);
+//        NSLog (@"|4| %@ |                        %@ |", Course4, Teacher4);
+//        NSLog (@"|5| %@ |            %@ |", Course5, Teacher5);
+//        NSLog (@"|6| %@ |                          %@ |", Course6, Teacher6);
+//        NSLog (@"|7| %@ |                  %@ |", Course7, Teacher7);
+//        NSLog (@"|8| %@ |%@ |", Course8, Teacher8);
+//        NSLog (@"+----------------------------------------------------+");
+        
         
         //oh hello!
-        NSSLog (@"this is a test line");
+//        NSSLog (@"this is a test line");
     
         
 //        NSLog(@"Hello, World!");
