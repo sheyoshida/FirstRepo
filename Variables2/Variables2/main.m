@@ -52,6 +52,8 @@ int main(int argc, const char * argv[]) {
         NSLog (@"|8| %@ |%@ |", Course8, Teacher8);
         NSLog (@"+----------------------------------------------------+");
         
+        //oh hello!
+    
         
 //        NSLog(@"Hello, World!");
     }
